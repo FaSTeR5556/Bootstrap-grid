@@ -1,0 +1,12 @@
+.container .row {
+  margin: 30px 0;
+}
+
+.row > div {
+  background-color: #6969f7;
+  padding: 15px 0 60px 12px;
+  border: 1px solid #fff;
+  margin-bottom: 10px;
+  color: #fff;
+}
+/*# sourceMappingURL=main.css.map */
